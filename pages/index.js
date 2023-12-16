@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Shafton.org" />
         <p className="description">
-         Welcome to shafton.org</code>
+         Welcome to shafton.org
         </p>
       </main>
 
